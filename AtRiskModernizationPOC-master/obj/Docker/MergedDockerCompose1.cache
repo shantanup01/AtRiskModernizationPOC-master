@@ -1,0 +1,30 @@
+services:
+  atriskhistory.api:
+    build:
+      context: C:\Users\sprabhakar\Desktop\Git\AtRiskModernizationPOC-master
+      dockerfile: src/Microservices/AtRiskHistory/AtRiskHistory.API/Dockerfile
+      labels:
+        com.microsoft.created-by: visual-studio
+        com.microsoft.visual-studio.project-name: AtRiskHistory.API
+      target: base
+    entrypoint: tail -f /dev/null
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      DOTNET_USE_POLLING_FILE_WATCHER: '1'
+      NUGET_FALLBACK_PACKAGES: /root/.nuget/fallbackpackages
+    image: atriskhistoryapi:dev
+    labels:
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /root/.nuget/fallbackpackages  "bin/Debug/netcoreapp2.2/AtRiskHistory.API.dll"'
+      com.microsoft.visualstudio.debuggee.killprogram: /bin/sh -c "if PID=$$(pidof
+        dotnet); then kill $$PID; fi"
+      com.microsoft.visualstudio.debuggee.program: dotnet
+      com.microsoft.visualstudio.debuggee.workingdirectory: /app
+    ports:
+    - target: 80
+    volumes:
+    - C:\Users\sprabhakar\Desktop\Git\AtRiskModernizationPOC-master\src\Microservices\AtRiskHistory\AtRiskHistory.API:/app:rw
+    - C:\Users\sprabhakar\vsdbg\vs2017u5:/remote_debugger:ro
+    - C:\Users\sprabhakar\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\sprabhakar\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+    - C:\Program Files\dotnet\sdk\NuGetFallbackFolder:/root/.nuget/fallbackpackages:ro
+version: '3.4'

@@ -1,0 +1,9 @@
+version: '3.4'
+
+services:
+  atriskhistory.api:
+    image: ${DOCKER_REGISTRY-}atriskhistoryapi
+    build:
+      context: .
+      dockerfile: src/Microservices/AtRiskHistory/AtRiskHistory.API/Dockerfile
+    

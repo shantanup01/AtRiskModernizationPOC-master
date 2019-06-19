@@ -1,0 +1,17 @@
+C:\Users\MGawayi\source\Work\AtRiskModernization\test\AtRiskHistory.test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\MGawayi\source\Work\AtRiskModernization\test\AtRiskHistory.test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\MGawayi\source\Work\AtRiskModernization\test\AtRiskHistory.test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\MGawayi\source\Work\AtRiskModernization\test\AtRiskHistory.test\bin\Debug\netcoreapp2.2\AtRiskHistory.test.deps.json
+C:\Users\MGawayi\source\Work\AtRiskModernization\test\AtRiskHistory.test\bin\Debug\netcoreapp2.2\AtRiskHistory.test.runtimeconfig.json
+C:\Users\MGawayi\source\Work\AtRiskModernization\test\AtRiskHistory.test\bin\Debug\netcoreapp2.2\AtRiskHistory.test.runtimeconfig.dev.json
+C:\Users\MGawayi\source\Work\AtRiskModernization\test\AtRiskHistory.test\bin\Debug\netcoreapp2.2\AtRiskHistory.test.dll
+C:\Users\MGawayi\source\Work\AtRiskModernization\test\AtRiskHistory.test\bin\Debug\netcoreapp2.2\AtRiskHistory.test.pdb
+C:\Users\MGawayi\source\Work\AtRiskModernization\test\AtRiskHistory.test\bin\Debug\netcoreapp2.2\AtRiskHistory.API.dll
+C:\Users\MGawayi\source\Work\AtRiskModernization\test\AtRiskHistory.test\bin\Debug\netcoreapp2.2\AtRiskHistory.API.pdb
+C:\Users\MGawayi\source\Work\AtRiskModernization\test\AtRiskHistory.test\obj\Debug\netcoreapp2.2\AtRiskHistory.test.csprojAssemblyReference.cache
+C:\Users\MGawayi\source\Work\AtRiskModernization\test\AtRiskHistory.test\obj\Debug\netcoreapp2.2\AtRiskHistory.test.csproj.CoreCompileInputs.cache
+C:\Users\MGawayi\source\Work\AtRiskModernization\test\AtRiskHistory.test\obj\Debug\netcoreapp2.2\AtRiskHistory.test.AssemblyInfoInputs.cache
+C:\Users\MGawayi\source\Work\AtRiskModernization\test\AtRiskHistory.test\obj\Debug\netcoreapp2.2\AtRiskHistory.test.AssemblyInfo.cs
+C:\Users\MGawayi\source\Work\AtRiskModernization\test\AtRiskHistory.test\obj\Debug\netcoreapp2.2\AtRiskHistory.test.csproj.CopyComplete
+C:\Users\MGawayi\source\Work\AtRiskModernization\test\AtRiskHistory.test\obj\Debug\netcoreapp2.2\AtRiskHistory.test.dll
+C:\Users\MGawayi\source\Work\AtRiskModernization\test\AtRiskHistory.test\obj\Debug\netcoreapp2.2\AtRiskHistory.test.pdb

@@ -1,0 +1,10 @@
+C:\Users\MGawayi\source\Work\AtRiskModernization\bin\Debug\AtRiskHistory.API.dll
+C:\Users\MGawayi\source\Work\AtRiskModernization\bin\Debug\AtRiskHistory.API.pdb
+C:\Users\MGawayi\source\Work\AtRiskModernization\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\MGawayi\source\Work\AtRiskModernization\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\MGawayi\source\Work\AtRiskModernization\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Users\sprabhakar\Desktop\Git\AtRiskModernizationPOC-master\bin\Debug\AtRiskHistory.API.dll
+C:\Users\sprabhakar\Desktop\Git\AtRiskModernizationPOC-master\bin\Debug\AtRiskHistory.API.pdb
+C:\Users\sprabhakar\Desktop\Git\AtRiskModernizationPOC-master\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\sprabhakar\Desktop\Git\AtRiskModernizationPOC-master\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\sprabhakar\Desktop\Git\AtRiskModernizationPOC-master\obj\Debug\docker-compose.dcproj.CopyComplete

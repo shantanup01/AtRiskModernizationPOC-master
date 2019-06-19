@@ -1,0 +1,81 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "AtRiskHistory.API/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/AtRiskHistory.API.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AtRiskHistory.API.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AtRiskHistory.API/1.0.0": {
+      "type": "project",
+      "path": "../../src/Microservices/AtRiskHistory/AtRiskHistory.API/AtRiskHistory.API.csproj",
+      "msbuildProject": "../../src/Microservices/AtRiskHistory/AtRiskHistory.API/AtRiskHistory.API.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.2": [
+      "AtRiskHistory.API >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\sprabhakar\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\sprabhakar\\Desktop\\Git\\AtRiskModernizationPOC-master\\test\\AtRiskHistory.test\\AtRiskHistory.test.csproj",
+      "projectName": "AtRiskHistory.test",
+      "projectPath": "C:\\Users\\sprabhakar\\Desktop\\Git\\AtRiskModernizationPOC-master\\test\\AtRiskHistory.test\\AtRiskHistory.test.csproj",
+      "packagesPath": "C:\\Users\\sprabhakar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sprabhakar\\Desktop\\Git\\AtRiskModernizationPOC-master\\test\\AtRiskHistory.test\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\sprabhakar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.2"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "projectReferences": {
+            "C:\\Users\\sprabhakar\\Desktop\\Git\\AtRiskModernizationPOC-master\\src\\Microservices\\AtRiskHistory\\AtRiskHistory.API\\AtRiskHistory.API.csproj": {
+              "projectPath": "C:\\Users\\sprabhakar\\Desktop\\Git\\AtRiskModernizationPOC-master\\src\\Microservices\\AtRiskHistory\\AtRiskHistory.API\\AtRiskHistory.API.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}

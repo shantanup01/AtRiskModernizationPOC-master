@@ -1,0 +1,11 @@
+services:
+  atriskhistory.api:
+    build:
+      context: C:\Users\sprabhakar\Desktop\Git\AtRiskModernizationPOC-master
+      dockerfile: src/Microservices/AtRiskHistory/AtRiskHistory.API/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: atriskhistoryapi
+    ports:
+    - target: 80
+version: '3.4'
